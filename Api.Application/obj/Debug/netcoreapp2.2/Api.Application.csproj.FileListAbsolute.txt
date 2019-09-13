@@ -1,0 +1,14 @@
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.deps.json
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.runtimeconfig.json
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.runtimeconfig.dev.json
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.dll
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Application.pdb
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorAssemblyInfo.cache
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorAssemblyInfo.cs
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.AssemblyInfo.cs
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorTargetAssemblyInfo.cache
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.dll
+C:\Users\leona\source\repos\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.pdb
