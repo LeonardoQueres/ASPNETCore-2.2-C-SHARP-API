@@ -26,3 +26,12 @@ C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\obj\De
 C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.RazorTargetAssemblyInfo.cache
 C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.dll
 C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.pdb
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Domain.dll
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Domain.pdb
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\obj\Debug\netcoreapp2.2\Api.Application.csproj.CopyComplete
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.CrossCutting.dll
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Service.dll
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.CrossCutting.pdb
+C:\Users\leonardo.queres\Documents\GitHub\EstudoDDDWebApi\Api.Application\bin\Debug\netcoreapp2.2\Api.Service.pdb

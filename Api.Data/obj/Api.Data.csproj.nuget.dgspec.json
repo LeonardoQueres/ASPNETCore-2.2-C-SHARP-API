@@ -29,7 +29,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\Api.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -49,6 +53,10 @@
               "target": "Package",
               "version": "[2.2.6, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -60,6 +68,62 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\Api.Domain.csproj",
+        "projectName": "Api.Domain",
+        "projectPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\leonardo.queres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leonardo.queres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [
