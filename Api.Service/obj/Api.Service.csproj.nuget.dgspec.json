@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj": {}
+    "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj": {
+    "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj",
         "projectName": "Api.Service",
-        "projectPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj",
-        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Service\\obj\\",
+        "projectPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Service\\Api.Service.csproj",
+        "packagesPath": "C:\\Users\\leonardo.queres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\leonardo.queres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

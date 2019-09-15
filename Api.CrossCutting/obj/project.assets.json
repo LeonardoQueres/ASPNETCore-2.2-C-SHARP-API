@@ -179,27 +179,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leona\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\leonardo.queres\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.CrossCutting\\Api.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.CrossCutting\\Api.CrossCutting.csproj",
       "projectName": "Api.CrossCutting",
-      "projectPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.CrossCutting\\Api.CrossCutting.csproj",
-      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.CrossCutting\\obj\\",
+      "projectPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.CrossCutting\\Api.CrossCutting.csproj",
+      "packagesPath": "C:\\Users\\leonardo.queres\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\leonardo.queres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

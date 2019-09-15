@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj": {}
+    "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj": {
+    "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj",
         "projectName": "Api.Data",
-        "projectPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj",
-        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\source\\repos\\EstudoDDDWebApi\\Api.Data\\obj\\",
+        "projectPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Data\\Api.Data.csproj",
+        "packagesPath": "C:\\Users\\leonardo.queres\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.queres\\Documents\\GitHub\\EstudoDDDWebApi\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\leonardo.queres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -43,6 +41,20 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
